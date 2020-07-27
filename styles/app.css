@@ -124,7 +124,7 @@ header {
 	background-position: center;
 	height: 100vh;
     
-	background-attachment: scroll;
+	background-attachment: fixed;
 }
 
 

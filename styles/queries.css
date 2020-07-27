@@ -24,6 +24,15 @@
     }
     
     
+    header {
+	
+    
+	background-attachment: scroll;
+}
+    
+    
+    
+    
     #hero h1{
         font-size: 130%;
     }
