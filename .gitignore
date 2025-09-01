@@ -1,0 +1,23 @@
+# Compiled source
+*.css
+*.js
+*.map
+
+# Build directories
+dist/
+public/
+build/
+
+# Dependencies
+node_modules/
+jspm_packages/
+.npm
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db   
