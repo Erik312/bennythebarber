@@ -140,6 +140,7 @@ header {
     width: auto;
 
     border: 5px solid burlywood;
+    border-radius: 5px;
 }
 
 
@@ -227,6 +228,7 @@ header {
     width: auto;
 
     border: 5px solid burlywood;
+    border-radius: 5px;
 }
 
 
